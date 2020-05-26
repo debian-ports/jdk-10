@@ -1,0 +1,29 @@
+This package was debianized by the alien program by converting
+a binary .rpm package on Tue, 26 May 2020 19:05:06 +0300
+
+Copyright: http://java.com/license
+
+Information from the binary package:
+Name        : jdk-10
+Epoch       : 2000
+Version     : 10.0.2
+Release     : ga
+Architecture: x86_64
+Install Date: (not installed)
+Group       : Development/Tools
+Size        : 578542850
+License     : http://java.com/license
+Signature   : (none)
+Source RPM  : jdk-10.0.2-10.0.2-ga.src.rpm
+Build Date  : Чт 28 июн 2018 03:59:48
+Build Host  : sca00loe.us.oracle.com
+Relocations : /usr/java 
+Vendor      : Oracle America
+URL         : URL_REF
+Summary     : Java Platform Standard Edition Development Kit
+Description :
+The Java Platform Standard Edition Development Kit (JDK) includes both
+the runtime environment (Java Virtual Machine, the Java platform classes
+and supporting files) and development tools (compilers, debuggers,
+tool libraries and other tools).
+
